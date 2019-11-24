@@ -1,0 +1,7 @@
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\bin\Debug\Sender.exe
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\bin\Debug\Sender.pdb
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\obj\Debug\Sender.exe
+C:\Users\Иван\Desktop\Новая папка (9)\ub\Sender\Sender\obj\Debug\Sender.pdb
